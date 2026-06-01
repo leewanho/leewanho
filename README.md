@@ -16,7 +16,7 @@
   <a href="https://github.com/leewanho">
     <img src="https://img.shields.io/badge/@leewanho-C8A8E9?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://leewanho.github.io"><img src="https://img.shields.io/badge/자소서-9B7AB8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leewanho.github.io"><img src="https://img.shields.io/badge/자소서-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
