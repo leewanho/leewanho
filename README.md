@@ -22,11 +22,29 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+**💎 Production Stack** — 실제 프로젝트에서 자신있게 다루는 기술
+<p>
   <img src="https://img.shields.io/badge/Python-FFB7CE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-C8A8E9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6B9D?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-C8A8E9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFB7CE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B9D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/statsmodels-FFB7CE?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF6B9D?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pygame-FFB7CE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-C8A8E9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FFB7CE?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+**🌱 Learning Stack** — Antigravity 학습 과정에서 익히는 중인 기술
+<p>
+  <img src="https://img.shields.io/badge/LangChain-C8A8E9?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-FF6B9D?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-FFB7CE?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-C8A8E9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-FF6B9D?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-FFB7CE?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-C8A8E9?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ---
