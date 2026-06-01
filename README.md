@@ -1,5 +1,5 @@
 <!--
-  Wanho Lee's GIT · GitHub Profile README
+  Wanho Lee · GitHub Profile README
   Metamon palette: FFB7CE / C8A8E9 / FF6B9D / FFF0F5
 -->
 
@@ -31,15 +31,32 @@
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
 #### 🩺 AI / Healthcare
 - **[Project1-Metabolic-syndrome-](https://github.com/leewanho/Project1-Metabolic-syndrome-)** — 2030 청년층 대사증후군 예측 ML 파이프라인 + Streamlit 자가진단 앱
   <br/>`Logistic + Isotonic` · `ROC-AUC 0.7347` · `Recall 0.6923`
+- **[AtoCatch](https://github.com/leewanho/AtoCatch)** — 아토피 피부염 진단 보조 Streamlit 앱
+  <br/>`Image Classification` · `Grad-CAM 시각화` · `joblib 모델 배포`
 
-#### 🎮 Game Development
+#### 🎮 Game
 - **[pygame (Blood Surfer)](https://github.com/leewanho/pygame)** — 혈관 속 건강식재료 수집 2D 아케이드 게임
   <br/>`Pygame` · `1000×1000` · `Asset cache & atlas optimization`
+
+---
+
+### 🧪 Learning Sandbox
+
+> Antigravity 학습 과정에서 직접 아이디어를 얹어 만든 실습 프로젝트들. 새로운 스택을 익히기 위한 손풀기 작업물입니다.
+
+- **[shopping_review_chat_bot](https://github.com/leewanho/shopping_review_chat_bot)** — RAG 기반 쇼핑 리뷰 분석 챗봇
+  <br/>`Next.js` · `LangChain` · `Pinecone` · `Supabase`
+- **[voicechat](https://github.com/leewanho/voicechat)** — 음성 비서 프로그램
+  <br/>`Python` · `Speech-to-Text` · `LLM`
+- **[WHBlog](https://github.com/leewanho/WHBlog)** — 개인 기술 블로그
+  <br/>`Next.js` · `TypeScript`
+- **[Saas-landing-page](https://github.com/leewanho/Saas-landing-page)** — SaaS 랜딩 페이지
+  <br/>`React` · `Vite`
 
 ---
 
