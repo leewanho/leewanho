@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://leewanho.github.io">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+healthcare+services;From+data+pipeline+to+web+deployment;Where+ML+meets+real+patients" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D63384&center=true&vCenter=true&width=800&lines=Building+production-ready+AI+healthcare+services;From+data+pipeline+to+web+deployment;Where+ML+meets+real+patients" alt="typing"/>
   </a>
 </p>
+
 
 <p align="center">
   <a href="mailto:leewanho8573@gmail.com"><img src="https://img.shields.io/badge/Email-leewanho8573@gmail.com-D85A8E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
