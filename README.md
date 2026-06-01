@@ -1,13 +1,12 @@
-<!--
-  Wanho Lee · GitHub Profile README
-  Metamon palette: FFB7CE / C8A8E9 / FF6B9D / FFF0F5
--->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7CE,50:C8A8E9,100:FF6B9D&height=200&section=header&text=Wanho%20Lee&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7CE,50:FF6B9D,100:C8A8E9&height=240&section=header&text=Wanho%20Lee&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Healthcare%20Engineer&descSize=20&descAlignY=60&descColor=fff0f5" alt="header"/>
 </p>
 
-<h3 align="center">Building production-ready AI healthcare services<br/>from data pipeline to web deployment</h3>
+<p align="center">
+  <a href="https://leewanho.github.io">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Building+production-ready+AI+healthcare+services;From+data+pipeline+to+web+deployment;Where+ML+meets+real+patients" alt="typing"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:leewanho8573@gmail.com"><img src="https://img.shields.io/badge/Email-leewanho8573@gmail.com-D85A8E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
