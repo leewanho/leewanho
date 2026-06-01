@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-**💎 Production Stack** — 실제 프로젝트에서 자신있게 다루는 기술
+**💎 Production Stack** — 프로젝트에서 사용한 기술
 <p>
   <img src="https://img.shields.io/badge/Python-FFB7CE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-C8A8E9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Git-FFB7CE?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**🌱 Learning Stack** — Antigravity 학습 과정에서 익히는 중인 기술
+**🌱 Learning Stack** — 학습 과정에서 익히는 중인 기술
 <p>
   <img src="https://img.shields.io/badge/LangChain-C8A8E9?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-FF6B9D?style=for-the-badge&logo=pinecone&logoColor=white"/>
