@@ -10,13 +10,10 @@
 <h3 align="center">Building production-ready AI healthcare services<br/>from data pipeline to web deployment</h3>
 
 <p align="center">
-  <a href="mailto:leewanho8573@gmail.com">
-    <img src="https://img.shields.io/badge/leewanho8573@gmail.com-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://github.com/leewanho">
-    <img src="https://img.shields.io/badge/@leewanho-C8A8E9?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://leewanho.github.io"><img src="https://img.shields.io/badge/자소서-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:leewanho8573@gmail.com"><img src="https://img.shields.io/badge/Email-leewanho8573@gmail.com-D85A8E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/leewanho"><img src="https://img.shields.io/badge/GitHub-@leewanho-9B7AB8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leewanho.github.io"><img src="https://img.shields.io/badge/Portfolio-leewanho.github.io-7A4B9E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 </p>
 
 ---
