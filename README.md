@@ -81,7 +81,8 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewanho&layout=compact&langs_count=8&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&border_color=FFB7CE" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leewanho&theme=default" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leewanho&theme=default" alt="Most Commit Language"/>
 </p>
 
 ---
