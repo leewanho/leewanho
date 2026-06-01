@@ -1,5 +1,5 @@
 <!--
-  Wanho Lee · GitHub Profile README
+  Wanho Lee's GIT · GitHub Profile README
   Metamon palette: FFB7CE / C8A8E9 / FF6B9D / FFF0F5
 -->
 
