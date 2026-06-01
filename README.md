@@ -65,7 +65,7 @@
 
 ### 🧪 Learning Sandbox
 
-> Antigravity 학습 과정에서 직접 아이디어를 얹어 만든 실습 프로젝트들. 새로운 스택을 익히기 위한 손풀기 작업물입니다.
+> 학습 과정에서 직접 아이디어를 얹어 만든 실습 프로젝트들. 새로운 스택을 익히기 위한 손풀기 작업물입니다.
 
 - **[shopping_review_chat_bot](https://github.com/leewanho/shopping_review_chat_bot)** — RAG 기반 쇼핑 리뷰 분석 챗봇
   <br/>`Next.js` · `LangChain` · `Pinecone` · `Supabase`
@@ -78,11 +78,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leewanho&show_icons=true&theme=default&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&icon_color=C8A8E9&border_color=FFB7CE&hide_border=false"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewanho&layout=compact&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&border_color=FFB7CE&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewanho&layout=donut&langs_count=8&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&border_color=FFB7CE&hide_border=false&card_width=500"/>
 </p>
 
 ---
