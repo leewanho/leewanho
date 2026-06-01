@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-**💎 Production Stack** — 프로젝트에서 사용한 기술
+**💎 Production Stack** — 프로젝트에서 활용한 기술
 <p>
   <img src="https://img.shields.io/badge/Python-FFB7CE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-C8A8E9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -81,7 +81,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewanho&layout=donut&langs_count=8&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&border_color=FFB7CE&hide_border=false&card_width=500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewanho&layout=compact&langs_count=8&bg_color=FFF0F5&title_color=FF6B9D&text_color=555555&border_color=FFB7CE" alt="Top Languages"/>
 </p>
 
 ---
