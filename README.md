@@ -57,7 +57,7 @@
 - **[AtoCatch](https://github.com/leewanho/AtoCatch)** — 아토피 피부염 진단 보조 Streamlit 앱
   <br/>`Image Classification` · `Grad-CAM 시각화` · `joblib 모델 배포`
 
-#### 🎮 Game
+#### 🎮 Pygame
 - **[pygame (Blood Surfer)](https://github.com/leewanho/pygame)** — 혈관 속 건강식재료 수집 2D 아케이드 게임
   <br/>`Pygame` · `1000×1000` · `Asset cache & atlas optimization`
 
