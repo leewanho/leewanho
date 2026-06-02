@@ -50,6 +50,8 @@
 ### 📂 Featured Projects
 
 #### 🩺 AI / Healthcare
+- **[project2-Atopy](https://github.com/leewanho/project2-Atopy)** — 이미지 + 문진 이중 모델 아토피 통합 진단 시스템 (세미나2 팀 프로젝트)
+  <br/>`이미지 5분류` · `문진 이진분류` · `EfficientNetV2-S + Tabular ML` · `Isotonic Calibration` · `Bootstrap CI`
 - **[Project1-Metabolic-syndrome-](https://github.com/leewanho/Project1-Metabolic-syndrome-)** — 2030 청년층 대사증후군 예측 ML 파이프라인 + Streamlit 자가진단 앱
   <br/>`Logistic + Isotonic` · `ROC-AUC 0.7347` · `Recall 0.6923`
 - **[AtoCatch](https://github.com/leewanho/AtoCatch)** — 아토피 피부염 진단 보조 Streamlit 앱
