@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/CatBoost-FFB7CE?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SHAP-FF6B9D?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/statsmodels-FFB7CE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-FF6B9D?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyG-C8A8E9?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFB7CE?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDKit-FF6B9D?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF6B9D?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pygame-C8A8E9?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-FFB7CE?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,6 +54,8 @@
 ### 📂 Featured Projects
 
 #### 🩺 AI / Healthcare
+- **[Dti-gnn-xai-](https://github.com/leewanho/Dti-gnn-xai-)** — GNN+XAI 기반 약물-타깃 결합 친화도(DTI) 예측 · ESMFold 3D 구조 시각화 (개인 포트폴리오)
+  <br/>`GAT 약물 인코더` · `ESM-2 650M Fine-tune` · `GNNExplainer` · `IoU 작용기 검증` · `Streamlit 데모` · `KIBA Val CI 0.7121`
 - **[project2-Atopy](https://github.com/leewanho/project2-Atopy)** — 이미지 + 문진 이중 모델 아토피 통합 진단 시스템 (세미나2 팀 프로젝트)
   <br/>`이미지 5분류` · `문진 이진분류` · `EfficientNetV2-S + Tabular ML` · `Isotonic Calibration` · `Bootstrap CI`
 - **[Project1-Metabolic-syndrome-](https://github.com/leewanho/Project1-Metabolic-syndrome-)** — 2030 청년층 대사증후군 예측 ML 파이프라인 + Streamlit 자가진단 앱
