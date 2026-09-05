@@ -62,8 +62,10 @@
   <br/>`이미지 5분류` · `문진 이진분류` · `EfficientNetV2-S + Tabular ML` · `Isotonic Calibration` · `Bootstrap CI`
 - **[Project1-Metabolic-syndrome-](https://github.com/leewanho/Project1-Metabolic-syndrome-)** — 2030 청년층 대사증후군 예측 ML 파이프라인 + Streamlit 자가진단 앱
   <br/>`Logistic + Isotonic` · `ROC-AUC 0.7347` · `Recall 0.6923`
-- **[AtoCatch](https://github.com/leewanho/AtoCatch)** — 아토피 피부염 진단 보조 Streamlit 앱
+- **[AtoCatch](https://github.com/leewanho/Atom)** — 아토피 피부염 진단 보조 Streamlit 앱
   <br/>`Image Classification` · `Grad-CAM 시각화` · `joblib 모델 배포`
+- **[FOOK](https://github.com/leewanho/FOOK)** — 혈액투석 환자를 위한 AI 식단 관리 서비스 (KDT 디지털트레이닝 해커톤 8회 수상작)
+  <br/>`Seq2Seq + Bahdanau Attention` · `REINFORCE 강화학습` · `FastAPI · React 19` · `영양소 자동 재조정`
 
 #### 🎮 Pygame
 - **[pygame (Blood Surfer)](https://github.com/leewanho/pygame)** — 혈관 속 건강식재료 수집 2D 아케이드 게임
