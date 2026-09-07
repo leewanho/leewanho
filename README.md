@@ -25,13 +25,13 @@
 **Solution** Seq2Seq + Attention, REINFORCE, FastAPI, React, PostgreSQL  
 [Service](https://fook-omega.vercel.app) · [Repository](https://github.com/leewanho/FOOK)
 
-### 🩺 [Atom — 아토피 케어 서비스](https://github.com/leewanho/Atom)
+### 🩺 [AtoCatch — 아토피 케어 서비스](https://github.com/leewanho/AtoCatch)
 **Team project · 팀 프로젝트**
 
 아토피 환자의 관리 경험을 개선하기 위해 기획·구현한 팀 프로젝트입니다. 사용자 문제를 제품 기능과 AI 활용 가능성으로 풀어내는 협업 경험을 담았습니다.
 
 **Focus** Health-care user experience · Team delivery  
-[Service](https://atocatch.streamlit.app/) · [Repository](https://github.com/leewanho/Atom)
+[Service](https://atocatch.streamlit.app/) · [Repository](https://github.com/leewanho/AtoCatch)
 
 ### 📝 [Ambient Clinical Documentation LLM](https://github.com/leewanho/Ambient-Clinical-Documentation-LLM)
 **Clinical conversation → structured documentation**
