@@ -4,8 +4,9 @@
 > **문제를 정의하고, AI 제품으로 설계·검증·구현합니다.**  
 > *I turn ambiguous user problems into useful AI products—from discovery and planning to model design and delivery.*
 
-저는 기술 그 자체보다 **사용자의 문제를 명확히 정의하고, 작동하는 솔루션으로 끝까지 연결하는 과정**에 관심이 있습니다.  
-PM을 지향하며 문제 탐색, 제품 기획, AI/모델 설계, 웹 구현을 한 흐름으로 경험하고 있습니다.
+**문제 정의에서 멈추지 않고, AI 모델과 웹 구현으로 작동하는 솔루션을 끝까지 만들어내는 PM 이완호입니다.**  
+기술 그 자체보다 **사용자의 문제를 명확히 정의하고, 실제로 작동하는 제품으로 완결 짓는 과정**에 집중합니다.  
+문제 탐색과 제품 기획을 바탕으로 AI 모델 설계부터 웹 구현까지 엔드투엔드 사이클을 직접 관통하며, 실현 가능하고 검증된 프로덕트를 만듭니다.
 
 ## What I build | 제가 만드는 것
 
@@ -49,6 +50,3 @@ PM을 지향하며 문제 탐색, 제품 기획, AI/모델 설계, 웹 구현을
 ## Let’s connect | 연락처
 
 - Portfolio: [leewanho.github.io](https://leewanho.github.io/)
-- GitHub: [@leewanho](https://github.com/leewanho)
-
-<sub>Building AI products that begin with the right question. · 좋은 질문에서 시작해, 쓸모 있는 AI 제품을 만듭니다.</sub>
